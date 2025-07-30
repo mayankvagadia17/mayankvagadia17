@@ -25,7 +25,7 @@ Building high-performance, accessible, and responsive mobile and web interfaces 
 - 🔭 **Currently working on:** Leading design and development of advanced Android and cross-platform applications, and contributing to frontend projects.
 - 👯 **Looking to collaborate on:** Challenging mobile and web projects that involve modern design and analytics integration.  
 - 🌱 **Currently learning:** Docker, Kubernetes, AWS Cloud Architecture
-- 💼 **Experience:** 7+ years in Mobile and Web Development
+- 💼 **Experience:** 6+ years in Mobile and Web Development
 - 🎯 **Goal:** To continuously enhance skills in building high-performance, accessible, and responsive interfaces, and explore full app lifecycle deployment
 - ⚡ **Fun fact:** I love optimizing application performance and ensuring attention to detail in every project!
 
