@@ -33,7 +33,7 @@ Building high-performance, accessible, and responsive mobile and web interfaces 
 ## 🛠️ Tech Arsenal
 
 ### Languages
-<div align="center">
+<div>
 
 ![java](https://skillicons.dev/icons?i=java)
 ![kotlin](https://skillicons.dev/icons?i=kotlin)
